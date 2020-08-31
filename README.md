@@ -1,0 +1,1 @@
+list directories as pretty format
